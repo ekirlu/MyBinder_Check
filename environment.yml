@@ -22,5 +22,4 @@ dependencies:
     - import-ipynb
     - ipython-extensions
     - jupytercards
-    - sklearn
     - dalex
