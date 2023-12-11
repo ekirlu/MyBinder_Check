@@ -23,4 +23,4 @@ dependencies:
     - ipython-extensions
     - jupytercards
     - dalex
-    - sklearn
+    - sklearn.compose
