@@ -24,3 +24,4 @@ dependencies:
     - ipython-extensions
     - jupytercards
     - dalex
+    - scikit-learn
