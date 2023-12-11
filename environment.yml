@@ -22,5 +22,5 @@ dependencies:
     - import-ipynb
     - ipython-extensions
     - jupytercards
-    - explainerdashboard
     - sklearn
+    - dalex
