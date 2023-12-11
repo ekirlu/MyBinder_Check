@@ -11,6 +11,7 @@ dependencies:
   #- anaconda-navigator
   #- navigator-updater
   - numpy
+  - sklearn
   - pip
   - pip:
     - pandas
