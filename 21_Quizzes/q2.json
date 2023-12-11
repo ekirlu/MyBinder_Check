@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Which of the followfing words are missing?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "absence",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "necessity",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "unfair",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "used",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    }
+
+]

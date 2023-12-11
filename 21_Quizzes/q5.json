@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Concise Card Style",
+        "front": "Movie recommendations",
+        "back": "Watching the correct movies may not be the most important part in life. But think about the potential abuse. If a country forbids LGBTQ, it could also use such mechanisms to recommend anti-LGBTS propanda.<br>"
+    },
+    {
+        "name": "Concise Card Style",
+        "front": "Suggesting products to buy",
+        "back": "Algorithms could be used to specifically hide suggest items, that minorities might want but are not as accepted in the region of the person. Even individuals could be targeted, e.g., showing people of color less price effective products than others. <br>"
+    },
+    {
+        "name": "Concise Card Style",
+        "front": "Hiring new people",
+        "back": "Maybe the last exmamples weren't as convincing, but what about decisions that directly affect people's lifes? Algorithms are trained on data, which often inherit systematic biases, e.g., wrongly attributed skills or risks of people. An AI might as well not higher a single mother, due to biased training data. <br>"
+    },
+    {
+        "name": "Concise Card Style",
+        "front": "Approving a loan",
+        "back": "Do you think all people get loans just on logical decisions based on facts? Sadly race does also seem to be relevant. The Markup found, that lenders 80% more likely to reject Black applicants and 70% more likely to deny Native American applicants.  <br>"
+    }   
+]

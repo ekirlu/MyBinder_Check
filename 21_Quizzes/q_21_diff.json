@@ -1,0 +1,36 @@
+[
+    {
+        "question": "Choose the correct definition for discrimination.",
+        "code": "",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Definition: A computer system discriminates unfairly if it denies an opportunity or a good or if it assigns an undesirable outcome to an individual or group of individuals on grounds that are unreasonable or inappropriate.",
+                "correct": true,
+                "feedback": "Yes. This is one possible definition of discrimination."
+            },
+            {
+                "answer": "Definition:  It is defined as the systematic and unfair discrimination or prejudice of certain individuals or groups of individuals in favor of others.",
+                "correct": false,
+                "feedback": "No. Here systemic is a characteristic."
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct definition for bias.",
+        "code": "",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Definition:  This concept is defined as the systematic and unfair discrimination or prejudice of certain individuals or groups of individuals in favor of others.",
+                "correct": true,
+                "feedback": "Yes. This definition from Pagano (2022) differs from the discrimination definition in one essential characteric - it requires being systematic."
+            },
+            {
+                "answer": "Definition:  This concept is related to systematic errors that alter human behaviors or judgments about others because of their membership in a group determined by distinguishing characteristics such as gender or age.",
+                "correct": false,
+                "feedback": "No. This is the definition for injustice according to Noia (2022). Pagano (2022) state that injustice is a social concept of value judgment an"
+            }
+        ]
+    }
+]
